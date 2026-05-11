@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Khyati Jani 👋
 
-<!--
-**khyati-Jani/Khyati-Jani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc IT Student at VNSGU  
+💻 Interested in Artificial Intelligence, Software Development & Emerging Technologies  
+🚀 Currently learning Python, Web Development and AI Tools  
+📌 Passionate about building projects and improving technical skills  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+- AI Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- LinkedIn: https://linkedin.com/in/khyati-jani
+- Email: khyatijani237@gmail.com
+
+---
+⭐ “Always learning and building.”
